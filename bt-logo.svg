@@ -1,5 +1,19 @@
 <svg width='100%' height='100%' xmlns='http://www.w3.org/2000/svg' xmlnsXlink='http://www.w3.org/1999/xlink'>
+      <style>
+          .bt-logo--colorLogo,
+          .bt-logo--initials { visibility: hidden; }
+          .bt-logo--house { visibility: visible; }
 
+          @media (min-aspect-ratio: 1/1) {
+            .bt-logo--initials { visibility: visible; }
+            .bt-logo--colorLogo { visibility: hidden; }
+          }
+
+          @media (min-aspect-ratio: 2/1) {
+            .bt-logo--initials { visibility: hidden; }
+            .bt-logo--colorLogo { visibility: visible; }
+          }
+      </style>
       <symbol id='bt-house' viewBox='0 0 123 111'>
         <polygon id='house' points='85 0 43 10 0 56 7 61 17 59 17 84 62 111 112 94 112 61 123 56 85 0' fill='#fff'/>
       </symbol>
