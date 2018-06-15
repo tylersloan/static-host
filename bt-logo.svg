@@ -1,0 +1,46 @@
+<svg width='100%' height='100%' xmlns='http://www.w3.org/2000/svg' xmlnsXlink='http://www.w3.org/1999/xlink'>
+
+      <symbol id='bt-house' viewBox='0 0 123 111'>
+        <polygon id='house' points='85 0 43 10 0 56 7 61 17 59 17 84 62 111 112 94 112 61 123 56 85 0' fill='#fff'/>
+      </symbol>
+      <symbol id='bt-initials' viewBox='0 0 119 111'>
+        <path id='B' d='M59,82s1-19-10-28,9-8,9-27c0,0,0-25-27-27H0V111H34S60,113,59,82ZM21,18c16,0,16,12,16,12,0,16-16,13-16,13ZM39,79c0,16-18,13-18,13V64C41,64,39,79,39,79Z' fill='#f4831f'/>
+        <polygon id='T' points='59 18 59 0 119 0 119 18 100 18 100 111 79 111 79 18 59 18' fill='#3c81c3'/>
+      </symbol>
+      <symbol id='bt-colorLogo' viewBox='0 0 553 128'>
+        <path id='B' d='M59,84s1-19-10-28,9-8,9-27c0,0,0-25-27-27H0V113H34S60,115,59,84ZM21,21c16,0,16,12,16,12,0,16-16,13-16,13ZM39,82c0,16-18,13-18,13V67C41,67,39,82,39,82Z' fill='#f4831f'/>
+        <path id='O1' d='M119,47s0-20-26-20S67,46,67,46V94s0,21,26,21,27-20,27-20ZM100,92s0,6-7,6-7-6-7-6V50s0-5,7-5,7,5,7,5Z' fill='#f4831f'/>
+        <path id='O2' d='M180,95V47s0-20-26-20-26,18-26,18V94s0,21,26,21S180,95,180,95Zm-19-3s0,6-7,6-7-6-7-6V50s0-5,7-5,7,5,7,5Z' fill='#f4831f'/>
+        <path id='M' d='M190,30v83h18V52s15-13,15-1v62h17V53s13-14,13-1v62h19V40s0-12-13-12c0,0-11-1-19,7s-11-16-31-1V30H190Z' fill='#f4831f'/>
+        <polygon id='T' points='265 20 265 2 325 2 325 20 306 20 306 113 285 113 285 20 265 20' fill='#3c81c3'/>
+        <path id='O3' d='M371,95V47s0-20-26-20-27,18-27,18V94s0,21,26,21S371,95,371,95ZM352,50V92s0,6-7,6-7-6-7-6V50s0-5,7-5,7,5,7,5Z' fill='#3c81c3'/>
+        <polygon id='W' points='375 30 391 113 407 113 413 75 421 113 438 113 452 30 434 30 428 68 421 30 407 30 400 68 394 30 375 30' fill='#3c81c3'/>
+        <path id='N' d='M460,30v83h20V53s13-13,13-2v62h19V41s0-13-14-13c0,0-11,0-19,7V30Z' fill='#3c81c3'/>
+        <polygon id='line' points='542 87 545 0 526 0 530 89 542 87' fill='#3c81c3'/>
+        <polygon id='house' points='542 98 531 101 519 113 521 115 524 114 524 121 536 128 550 124 550 115 553 113 542 98' fill='#3c81c3'/>
+      </symbol>
+      <use
+        xlinkHref='#bt-colorLogo'
+        x='5%'
+        y='5%'
+        width='90%'
+        height='90%'
+        className='bt-logo--colorLogo'
+      />
+      <use
+        xlinkHref='#bt-initials'
+        x='5%'
+        y='5%'
+        width='90%'
+        height='90%'
+        className='bt-logo--initials'
+      />
+      <use
+        xlinkHref='#bt-house'
+        x='5%'
+        y='5%'
+        width='90%'
+        height='90%'
+        className='bt-logo--house'
+      />
+    </svg>
